@@ -50,7 +50,7 @@
     * [第2节：学 gin 需要了解哪些库](source/c05/c05_02.md)
 * [第六章 测试专题](source/c06/README.md)
     * [第1节：go test 工具命令详解](source/c06/c06_01.md)
-    * [第2节：](source/c06/c06_02.md)
+    * [第2节：如何进行单元测试](source/c06/c06_02.md)
 * [第七章 相关资料](source/c07/README.md)
     * [第1节：整理了 20 个学习 Go 语言的精品网](source/c07/c07_01.md)
     * [第2节：配置高颜值 IDE：Goland](source/c07/c07_02.md)
