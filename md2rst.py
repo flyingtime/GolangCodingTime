@@ -49,7 +49,7 @@ readme_header = '''
 '''
 readme_tooter = '''
 ---
-![](http://image.iswbm.com/20200607174235.png)
+
 
 '''
 
