@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [第一章 基础知识](c01/README.md)
+* [第一章 基础知识](source/c01/README.md)
     * [第1节：一文搞定开发环境的搭建](source/c01/c01_01.md)
     * [第2节：五种变量创建的方法](source/c01/c01_02.md)
     * [第3节：数据类型：整型与浮点型](source/c01/c01_03.md)
